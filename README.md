@@ -4,7 +4,7 @@
 **apk下载方式**
 - ![lanzoucloud](https://up.woozooo.com/favicon.ico "蓝奏云") 蓝奏云：https://shotan.lanzoul.com/b086qlkob 密码:2204
 - ![123pan](./images/icons/123pan.svg "123云盘") 123云盘：https://www.123865.com/s/QbO8Td-Tvqwd
-- ![github](./images/icons/github.svg "github") github：[v1.2.6_beta](https://github.com/KamiNoYuki/QiYuanVideoApp/releases/download/v1.2.6_beta/v1.2.6_beta.apk)
+- ![github](./images/icons/github.svg "github") github：[v1.2.7](https://github.com/KamiNoYuki/QiYuanVideoApp/releases/download/v1.2.6_beta/v1.2.6_beta.apk)
 
 **概览：**
 ![screenshot](./images/Screenshot_20250126_141538.jpg "Screenshot1")
